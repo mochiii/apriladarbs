@@ -1,0 +1,88 @@
+body{
+	background-image: url(http://wallpapercave.com/wp/UoQbFHi.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-size: 100% 100%;
+}
+
+img{
+	display: block;
+	margin: auto;
+	width: 800px;
+	height: 800px;
+}
+
+figcaption{
+	text-align: center;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+form{
+	text-align: center;
+}
+
+
+.nav-bar-inverse {
+	background-image:  linear-gradient(to bottom,#770000 0,#f18500 100%);
+}
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+.container {
+	color: #ffffff;
+}
+
+h1{
+	text-align: center;
+	font-size: 300%;
+}
+
+h2{
+	text-align: center;
+}
+
+footer{
+	position: relative;
+	height: 300px;
+	width: 100%;
+}
+
+p.copyright{
+	position: absolute;
+	width: 100%;
+	color: #ffffff;
+	line-height: 40px;
+	font-size: 0.7em;
+	text-align: left;
+	bottom: 0;
+	display: block;
+	right: 0;
+}
+
+.jokesonyou{
+	text-align: center;
+	font-size: 179%;
+	text-decoration: none;
+	letter-spacing: 3px;
+	line-height: 1.5;
+}
+
+caption{
+	display: block;
+}
+
+button{
+	background-color: #000000;
+	border: none;
+	color: #ffffff;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	position: relative;
+	left: -50px;
+	float: right;
+}
