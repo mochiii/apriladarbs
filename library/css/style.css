@@ -1,0 +1,118 @@
+body {
+	background-image: url(http://blogrope.com/wp-content/uploads/2013/06/006-wood-melamine-subttle-pattern-background-pat.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover; 
+	background-size: 100% 100%;
+}
+.nav-bar-inverse {
+	background-image:  linear-gradient(to bottom,#770000 0,#f18500 100%);
+}
+.navbar-inverse .navbar-brand{
+	color: red;
+}
+.container {
+	color: white;
+}
+
+.modal-header {
+    border-bottom:1px solid #ccc;
+    background-color: #0480be;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-top left: 5px;
+    -moz-border-radius-top right: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+ }
+ .modal-body {
+ 	background-color:#de7709; 
+ }
+.tbl {
+	background-color: #fff;
+}
+ .btn-info{
+ 	margin-top: 10px;
+ 	margin-bottom: 10px;
+ 	color: brown;
+ 	background-image: linear-gradient(to bottom,#00f779 0,#00693d 100%);
+ }
+.btn-info:hover {
+ 	background-color:#007238;
+ }
+.btn-info:focus {
+ 	background-color:#007238;
+ }
+.sponsors {
+	width: 100%;
+	text-align:center;
+	list-style: none;
+	display: inline;
+    margin: 0 auto;
+    margin-top: 5px;
+    background-color: #999;
+
+}
+.footeris{
+	width: 100%;
+	color: white;
+	background-color: #333;
+	font-size: 11px;
+	list-style: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.footeris2{
+	width: 100%;
+	color: white;
+	background-color: #333;
+	font-size: 11px;
+	list-style: none;
+}
+.backround{
+	margin: 5px auto;
+	padding-top: : 10px;
+	background-color: white;
+	border-radius: 10px;
+	color: #222;
+}
+.cvg p{
+	color :#005aa9;
+    }
+
+
+.bold {
+	color :#005aa9;
+	font-weight: bold;	
+
+}
+.table .tbl2{
+	display: inline-block;
+}
+.table th {
+
+	text-align: center;
+}
+.table-responsive {
+	text-align: center;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    margin-bottom: 20px;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+.carousel-inner > .item a> img {
+    margin: 0 auto;
+}
+.videobox h3 {
+text-align: center;
+}
